@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 new file in GitNewBranch i am in main branch
+=======
+new file in GitNewBranch updated i am in GitNewBranch
+>>>>>>> GitNewBranch
